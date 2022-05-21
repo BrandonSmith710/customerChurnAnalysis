@@ -1,1 +1,1 @@
-
+This repository is dedicated to the analysis of churn rate for customers at a certain company. The notebook cleans, imputes and visualizes the data, then fits and tests a number of machine learning models, and explores the partial dependence of independent variables. A report including prediction metrics for each model is produced at the end.
